@@ -1,9 +1,19 @@
-- 👋 Hi, I’m kajal shahi
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning c++.
-- 💞️ I’m looking to collaborate 
-
-<!---
-shahikaju7/shahikaju7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hey there, I'm [Kajal!](https://github.com/shahikaju7) <img height="50px" src="https://github.com/shahikaju7/shahikaju7/blob/main/shahi/waving_hand.gif">
+<img align="right" alt="GIF" width="450px" src="https://github.com/shahikaju7/shahikaju7/blob/main/shahi/Kajlu.gif"/>
+<br>
+## I am an enthusiastic student :slightly_smiling_face:
+<br>
+- :computer: I am an undergraduate learning **Civil Engineering** at MNNIT, Allahabad
+- :seedling: I am looking forward to learn **Python**
+- :iphone: I am currently working on **Android Development**
+- :dancers: I'm a **Sportsperson**
+- :smile: **Pronouns:** She/Her
+<br>
+### Contact me here  :point_down:
+&nbsp; &nbsp; <a href="https://www.linkedin.com/in/kajal-shahi-b2842a208/">
+    <img align="center" width="26px" src="https://github.com/shahikaju7/shahikaju7/blob/main/shahi/linkedin.jpeg" />
+ </a>  &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="mailto:shahikaju73@gmail.com">
+    <img align="center" width="26px" src="https://github.com/shahikaju7/shahikaju7/blob/main/shahi/gmail.png" />
+</a>
+<br>
