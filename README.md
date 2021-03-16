@@ -4,7 +4,7 @@
 
 <br>
 
-## I am an enthusiastic student :slightly_smiling_face:
+## I am an student :slightly_smiling_face:
 
 <br>
 
