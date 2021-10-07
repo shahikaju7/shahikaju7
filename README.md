@@ -12,7 +12,7 @@
 
 - :seedling: I am looking forward to learn **Python**
  
-- :iphone: I am currently working on **Android Development**
+- :iphone: I am currently working on **Wed Development**
 
 - :dancers: I'm a **Sportsperson**
 
