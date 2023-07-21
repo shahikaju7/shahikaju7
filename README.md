@@ -14,7 +14,7 @@
  
 - :iphone: I am currently working on **Wed Development**
 
-- :dancers: I'm a **Sportsperson**
+- :dancers: I'm a **Athlete**
 
 - :smile: **Pronouns:** She/Her
 
