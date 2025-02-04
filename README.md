@@ -8,11 +8,12 @@
 
 <br>
 
-- :computer: I am an undergraduate learning **Civil Engineering** at MNNIT, Allahabad
+- :computer: Analyst at Deloitte USI with expertise in **Java**, **Spring Boot**, and **microservices** development.
 
-- :seedling: I am looking forward to learn **Python**
+- :seedling: Proven experience in designing and implementing scalable **microservices architectures**.
  
-- :iphone: I am currently working on **Wed Development**
+- :iphone: **AWS Developer Associate** certified, proficient in leveraging AWS cloud solutions
+- :mortar_board: Graduated from **MNNIT Allahabad** with a B.Tech in  2024.
 
 - :dancers: I'm a **Athlete**
 
