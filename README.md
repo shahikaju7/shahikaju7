@@ -4,7 +4,7 @@
 
 <br>
 
-## I am passionate student :slightly_smiling_face:
+## Analyst at Deloitte USI :slightly_smiling_face:
 
 <br>
 
